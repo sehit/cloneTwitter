@@ -1,6 +1,7 @@
-# cloneTwitter
+# Twitter Clone
 # Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
-# Tasarlayan Adı Soyadı:  Sehit Kemikkıran
+# BS435 Web Programlama 1 Dersi Vize Ödevi
+# Tasarlayan Adı Soyadı: Sehit Kemikkıran Öğretim Üyesi: Dr. Fehim Köylü
 # Dosyalar:
 # Ana Sayfa görünüm için index.html
 # Bilgilerim görünüm için hakkimda.html
