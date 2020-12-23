@@ -1,4 +1,4 @@
-# www.twitter.com sitesinin frontend birebir yeniden tasarımı
+# Twitter Clone
 # Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
 # BS435 Web Programlama 1 Dersi Vize Ödevi
 # Tasarlayan Adı Soyadı: Sehit Kemikkıran Öğretim Üyesi: Dr. Fehim Köylü
